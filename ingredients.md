@@ -14,3 +14,7 @@ lemon juice
 2 tablespoons tomato paste
 oil
 saffron (optional)
+
+
+
+This Ingredients were added from Persian Recipes website: https://persianrecipes.com/recipe/gheymeh-polo/
