@@ -6,6 +6,7 @@
 # recipe
 line 2 changed remotely
 
+![Gheyme polo is a delicious persian food!](/Users/sarabazargani/Desktop/DS_Courses/3. The Data Science Tools/Module_3/recipe/recipe.png "Gheyme polo, the persian food")
 
 -Rinse the rice a few times 
 -then soak it in water for a few hours 
